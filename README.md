@@ -1,6 +1,8 @@
 
 # Simulador de Atividades Médicas com Realidade Virtual (VR)
 
+![Diagrama de Caso de Uso](imagem.png)
+
 ## Descrição do Projeto
 
 Este projeto é uma aplicação desenvolvida para simular atividades médicas usando técnicas de Realidade Virtual (VR) e Realidade Aumentada (AR). O projeto foi criado para auxiliar na formação de residentes médicos, permitindo a prática de procedimentos como suturas, cortes cirúrgicos e atividades de pinça em um ambiente controlado e supervisionado por tutores.
